@@ -1,0 +1,9 @@
+.center-align-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.screen-center-vertical {
+    position:fixed;
+    top: 25%;
+}

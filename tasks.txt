@@ -1,0 +1,3 @@
+Done: Make job card pane
+Done: Finalise layout for seeker account
+To-do: Make job applicant modals

@@ -1,0 +1,46 @@
+
+.base-padding {
+    padding: 1rem;
+}
+
+.card-padding {
+    padding: 2rem;
+}
+
+.form-padding {
+    padding: 1rem;
+}
+
+.form-button-padding {
+    padding: 0.5rem;
+}
+
+.container-border {
+    border: 0.3rem solid #cecece
+}
+
+.form-border {
+    border: 0.1rem solid #cecece;
+}
+.center-align-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.screen-center-vertical {
+    position:fixed;
+    top: 25%;
+}
+.card-width {
+    width: 18rem;
+}
+
+.card-img-width {
+    width: 18rem;
+}
+
+.form-width {
+    width: 18rem;
+}
+
+/*# sourceMappingURL=styles.chunk.css.map*/
